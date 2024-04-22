@@ -22,3 +22,5 @@ model_zoo/*
 
 cvnets.egg-info
 cvnets.egg-info/*
+
+Models/*
